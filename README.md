@@ -11,6 +11,9 @@ When a user refreshes the page, the load balancer routes traffic to different se
 ---
 
 # Architecture Diagram
+## Architecture Diagram
+
+![Architecture](Architecture/architecture-diagram.png)
 
 ```
                 Internet
