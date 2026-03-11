@@ -227,32 +227,27 @@ This confirms that load balancing is working correctly.
 # Project Screenshots
 
 ## EC2 Instances
-
-![EC2 Instances](screenshots/instances.png.png)
+![EC2 Instances](screenshots/instances.png)
 
 ---
 
 ## Application Load Balancer
-
-![Load Balancer](screenshots/load balancer.png.png)
+![Load Balancer](screenshots/load balancer.png)
 
 ---
 
 ## Target Group Health Status
-
 ![Target Group](screenshots/target-group.png)
 
 ---
 
 ## Web Server 1 Response
-
-![Server 1](screenshots/server1.png.png)
+![Server 1](screenshots/server1.png)
 
 ---
 
 ## Web Server 2 Response
-
-![Server 2](screenshots/server2.png.png)
+![Server 2](screenshots/server2.png)
 
 ---
 
